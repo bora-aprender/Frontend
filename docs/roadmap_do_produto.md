@@ -4,7 +4,7 @@
 | 02/05/2020 | 1.0 | Criação do roadmap |  Leonardo Gomes |
 
 
-## Roadmap do Projeto
+## Roadmap do Produto
 
 O desenvolvimento do projeto foi dividido em 3 sprints:
 
@@ -13,7 +13,7 @@ O desenvolvimento do projeto foi dividido em 3 sprints:
     - Entrega da release 1.
  - Sprint 3: Desenvolvimento de novas funcionalidades e correção de bugs.
 
-Cada uma dessas Sprints terão a duração de **4 dias**, esse tempo foi extipulado pelo nível e a capacidade de aprendizado da equipe. 
+Cada uma dessas Sprints terão a duração de **4 dias**, esse tempo foi estipulado pelo nível e a capacidade de aprendizado da equipe. 
 
 ![](assets/roadmap_do_produto.png)
 
